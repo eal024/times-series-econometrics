@@ -2,16 +2,16 @@
 
 Collection of scrips and topics of time series econometrics.
 
-## Simuation of time series data
+## Simulation of time series data
 
-## Viasualize time series data
+## Visualize time series data
 
 
 ## AR and MA
-- [AR]() Interpretation and visulation
+- [AR]() Interpretation and visualisation
 - [MA]() 
 
-# Test of statiarity
+# Test of stationarity
 
 
 
