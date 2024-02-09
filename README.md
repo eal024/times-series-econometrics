@@ -13,7 +13,7 @@ Collection of scrips and topics of time series econometrics.
 
 # Test of stationarity
 - The `urca::ur.df()`function. Testing for stationarity (presence of a unit root). 
-- [Example](https://github.com/eal024/times-series-econometrics/blob/main/2024-02-09%20stationarity_example.R) of non-stationary and stationary data. Using both `urca::ur.df()` and `tseries::adf.test()` to interpret the result. The example is based on this [blogpost:](https://rpubs.com/richkt/269797)
+- [Example](https://github.com/eal024/times-series-econometrics/blob/main/2024-02-09%20stationarity_example.R) of non-stationary and stationary data. Using both `urca::ur.df()` and `tseries::adf.test()` to interpret the result. The example is based on this [blogpost](https://rpubs.com/richkt/269797)
 
 
 ## Relevant links
