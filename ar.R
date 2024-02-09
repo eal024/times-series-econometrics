@@ -1,9 +1,10 @@
 
 # Simulating data, for investigation
 
+
 # AR
 n <- 100
-y  <- arima.sim( n = n, list(ar = 0.5)) + 2 # AR(1)
+y  <- arima.sim( n = n, list(ar = 0.7)) + 0 # AR(1)
 z  <- arima.sim( n = n, list(ar = -0.5)) + 2 # AR(1)
 yy <- arima.sim( n = n, list(ar = c(0.5, 0.25))) + 2 # AR(2)
 yz <- arima.sim( n = n, list(ar = c(0.5, -.5))) + 2 # AR(2)
